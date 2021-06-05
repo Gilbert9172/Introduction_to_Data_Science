@@ -1,7 +1,7 @@
 -------------------------------------------------------------------
 Those links are from my "Notion note".  It's free to use. 
 
-When using it, plz Show where it comes from (ex. GitHub address). THX😊
+When using it, plz show where it comes from (ex. GitHub address). THX😊
 
 -------------------------------------------------------------------
 
