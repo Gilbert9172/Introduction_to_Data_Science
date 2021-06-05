@@ -1,10 +1,15 @@
-# EDA (Notion link)
-https://www.notion.so/NOTE-1-3217b7febd534a8286379179962a0cb6
-------------------------------------------------------------------------
-This is my Notion link. You can copy if you want.
+# Notion link
+----------------------------------------------------------------------------------
+https://www.notion.so/Data-Preprocess-EDA-8e53b39abef5448f896d458e0e12a22e
 
-By the way, when using my link, Plz notice my GitHub adress. THX😊
-------------------------------------------------------------------------
+Above is my Notion link. You can use if you want. 
+
+By the way, when using my link
+
+Plz notice my GitHub adress. THX😊
+
+-------------------------------------------------------------------
 
 < NOTE 1 >
+
 About EDA  
