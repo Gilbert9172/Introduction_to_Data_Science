@@ -25,9 +25,10 @@ https://www.notion.so/NOTE-3-c553864269e54b92b5112003b0dd2502
 - Confidence Interval 
 - Central Limit Theorem
 - Law of large numbers
--------------------------------------------------------------------
+----------------------------------------------------------------------
 
 # NOTE 4 (Bayesian-Inference)
 https://www.notion.so/NOTE-4-c09530d7f5644032a2cc079404fdd7d8
 - Bayesian-Inference
 - Naive Bayes
+
