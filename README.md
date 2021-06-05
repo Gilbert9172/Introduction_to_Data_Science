@@ -1,4 +1,4 @@
-# Introduction_to_Data_Science
+# Introduction to Data Science
 --------------------------------
 In this repository, we'll going to learn about how to handling our data. 
 
